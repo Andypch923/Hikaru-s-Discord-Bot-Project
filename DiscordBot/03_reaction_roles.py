@@ -21,4 +21,4 @@ intents = discord.Intents.default()
 intents.members = True
 
 client = MyClient(intents = intents)
-'''client.run('ODk0NDgyNzkxNzc1OTkzODU2.YVqqBA.OMt99fafNQGLhfWQ9LCojKwDtDY')'''
+client.run('')
